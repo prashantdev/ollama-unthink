@@ -2,7 +2,7 @@
 
   Ollama's API proxy server that captures `/api/chat` and `/api/generate` responses and 
     removes <think></think> streamed content, so we get rid of 
-    the "<THINK>ing process" specially on DeepSeek-R1's generated content.
+    the "THINK-ing process" specially on DeepSeek-R1's generated content.
 | e.g. |
 |:--:|
 | ![imagen](https://github.com/user-attachments/assets/bf18ba19-a63f-40ba-aa07-0f8aa8a87009) |
